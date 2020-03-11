@@ -1,0 +1,119 @@
+[
+  {
+    "name": "History Of Ryan",
+    "questions": [
+      {
+        "value": 100,
+        "question": "Ryan graduated Summa Cum Laude from this university",
+        "answer": "What is Wichita State?",
+        "answered": false
+      },
+      {
+        "value": 200,
+        "question": "These are the names of Ryan's two daughters",
+        "answer": "Who is Samantha and Sophie?",
+        "answered": false
+      },
+      {
+        "value": 300,
+        "question": "Ryan was hit in the eye by this toy when he was little?",
+        "answer": "What is a B.B. gun?",
+        "answered": false
+      },
+      {
+        "value": 400,
+        "question": "Ryan attended this high school",
+        "answer": "What is Kapaun Mt. Carmel Catholic High School?",
+        "answered": false
+      }
+    ]
+  },
+  {
+    "name": "Career",
+    "questions": [
+      {
+        "value": 100,
+        "question": "Ryan received Ingram's 40 Under Forty award on this year",
+        "answer": "What is 2017?",
+        "answered": false
+      },
+      {
+        "value": 200,
+        "question": "Ryan's first job was financial analyst for this company",
+        "answer": "What is Sprint?",
+        "answered": false
+      },
+      {
+        "value": 300,
+        "question": "Ryan worked for this company in Chicago, Illinois",
+        "answer": "What is McKinsey & Company?",
+        "answered": false
+      },
+      {
+        "value": 400,
+        "question": "This is Ryan's number one endorsement on LinkedIn",
+        "answer": "What is forecasting?",
+        "answered": false
+      }
+    ]
+  },
+  {
+    "name": "Ryan's Favorite Things",
+    "questions": [
+      {
+        "value": 100,
+        "question": "This is the name of Ryan's favorite business book",
+        "answer": "What is The Lean Startup?",
+        "answered": false
+      },
+      {
+        "value": 200,
+        "question": "This clothing store is Ryan's favorite place to get slim fit button-down shirts",
+        "answer": "What is Banana Republic?",
+        "answered": false
+      },
+      {
+        "value": 300,
+        "question": "This is the name of Ryan's all-time favorite movie",
+        "answer": "What is Molly's Game?",
+        "answered": false
+      },
+      {
+        "value": 400,
+        "question": "This is Ryan's favorite concert of all time",
+        "answer": "What is Bone Thugs N Harmony?",
+        "answered": false
+      }
+    ]
+  }
+,
+  {
+    "name": "Random Trivia",
+    "questions": [
+      {
+        "value": 100,
+        "question": "This is Ryan's childhood fear",
+        "answer": "What are clowns?",
+        "answered": false
+      },
+      {
+        "value": 200,
+        "question": "Ryan would choose this career if he could have any other job in the world",
+        "answer": "What is professional golfer?",
+        "answered": false
+      },
+      {
+        "value": 300,
+        "question": "This is the city where Ryan met his wife Molly",
+        "answer": "What is Chicago?",
+        "answered": false
+      },
+      {
+        "value": 400,
+        "question": "This is Ryan's hidden talent",
+        "answer": "What is juggling?",
+        "answered": false
+      }
+    ]
+  }
+]

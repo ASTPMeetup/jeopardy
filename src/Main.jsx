@@ -1,4 +1,5 @@
 var React = require('react');
+var uuid = require('uuid');
 
 var CurrentQuestion = require('./CurrentQuestion.jsx');
 var Category = require('./Category.jsx');
@@ -61,6 +62,7 @@ var Main = React.createClass({
         var categories = this.state.categories.map( function(category, i) {
             return (
                 <Category
+                    key={uuid()}
                     categoryIndex={i}
                     categoryName={category.name}
                     questions={category.questions}

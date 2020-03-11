@@ -1,4 +1,5 @@
 var React = require('react');
+var uuid = require('uuid');
 
 var Question = require('./Question.jsx');
 
@@ -15,6 +16,7 @@ var Category = React.createClass({
         var questions = this.props.questions.map( function(question, i) {
             return (
                 <Question
+                    key={uuid()}
                     value={question.value}
                     question={question.question}
                     answer={question.answer}
